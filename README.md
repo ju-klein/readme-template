@@ -1,5 +1,5 @@
 # readme-template
-Template for a good README by https://www.makeareadme.com/, as seen first at [Gitlab](https://gitlab.com)
+Template for a good README by https://www.makeareadme.com/, as seen first at [Gitlab](https://gitlab.com).
 
 # Suggestions for a good README
 
